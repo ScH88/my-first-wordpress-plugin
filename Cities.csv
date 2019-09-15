@@ -1,0 +1,8 @@
+id,City,Country,Region/State,Population,"Time Zone",Details,"Image URL"
+1,Paris,France,Ile-de-France,2206488,CET,"A romantic city",Paris.jpg
+2,London,"United Kingdom","Greater London",8787892,GMT,"A diverse city",London.jpg
+3,Budapest,Hungary,"Central Hungary",1779361,CET,"A historic city",Budapest.jpg
+4,"New York","United States","New York",8175133,EST,"A welcoming, fruitful city","New York.jpg"
+5,Seoul,"South Korea","Seoul Capital Area",9838892,n/a,"A lively city",Seoul.jpg
+6,Tokyo,Japan,Kanto,13617444,"Japan Standard Time","A cultured city",Tokyo.jpg
+7,Melbourne,Australia,Victoria,4900000,AEST,"A warm, welcoming city",Melbourne.jpg 
